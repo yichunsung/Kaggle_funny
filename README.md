@@ -9,7 +9,7 @@ https://www.kaggle.com/datasets
 
 * Kaggle datasets page: https://www.kaggle.com/smithsonian/volcanic-eruptions
 
-* My Repository link : https://github.com/yichunsung/Kaggle_funny/volcano_Kaggle
+* My Repository link : https://github.com/yichunsung/Kaggle_funny/tree/master/volcano_Kaggle
 
 
 
