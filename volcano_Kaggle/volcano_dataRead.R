@@ -50,7 +50,7 @@ CEyearTransfrom <- ifelse(Last_Eruption$yearCE=="BCE", as.numeric(as.vector(Last
 Last_Eruption <- cbind(Last_Eruption, last_time_eruption = CEyearTransfrom)
 
 volcano_df_raw <- cbind(volcano_df_raw, Last_Eruption)
-#write.csv(volcano_df_raw, "c://Kaggle_funny/volcano_Kaggle/data/newDataBase.csv")
+# write.csv(volcano_df_raw, "c://Kaggle_funny/volcano_Kaggle/data/newDataBase.csv")
 
 Last_Eruption_NOUnkown <- subset(Last_Eruption, Last_Eruption$last_time_eruption!= "NA")
 
